@@ -1,4 +1,0 @@
-setuptools<58
-optuna
-xfeat
-japanize-matplotlib
